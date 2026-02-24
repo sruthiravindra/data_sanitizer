@@ -1,0 +1,4 @@
+SKU,Product_Name,Category,Price,Stock_Count,Last_Restock_Date,Audit_Flag,Deletion_Timestamp
+SURG-1000,Scalpel Holder,Cutting,99999.99,22.0,2023-01-01,Price Mismatch; ,2026-02-23 19:18:06
+SURG-1003,Needle Driver,Suturing,,50.0,2023-01-04,Missing Data; ,2026-02-23 19:18:06
+SURG-1001,Hemostatic Forceps,Grasping,165.66,97.0,2023-01-02,Duplicate Entry; ,2026-02-23 19:18:06

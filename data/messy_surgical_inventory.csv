@@ -1,0 +1,52 @@
+SKU,Product_Name,Category,Price,Stock_Count,Last_Restock_Date
+SURG-1000,Scalpel Holder,Cutting,99999.99,22.0,2023-01-01
+SURG-1001,Hemostatic Forceps,Grasping,165.66,97.0,2023-01-02
+SURG-1002,Retractor,cutting,214.57,25.0,2023-01-03
+SURG-1003,Needle Driver,Suturing,,50.0,2023-01-04
+SURG-1004,Metzenbaum Scissors,Cutting,211.99,6.0,2023-01-05
+SURG-1005,Adson Tissue Forceps,Grasping ,397.51,19.0,2023-01-06
+SURG-1006,Speculum,Diagnostic,349.77,62.0,2023-01-07
+SURG-1007,Bone Saw,Orthopedic,436.56,,2023-01-08
+SURG-1008,Scalpel Holder,Cutting,93.26,16.0,2023-01-09
+SURG-1009,Hemostatic Forceps,Grasping,302.61,51.0,2023-01-10
+SURG-1010,Scalp3l Holdr,Retracting,168.42,5.0,2023-01-11
+SURG-1011,Needle Driver,Suturing,380.68,1.0,2023-01-12
+SURG-1012,Metzenbaum Scissors,Cutting,109.46,-5.0,2023-01-13
+SURG-1013,Adson Tissue Forceps,Grasping,135.4,26.0,2023-01-14
+SURG-1014,Speculum,Diagnostic,277.18,93.0,2023-01-15
+SURG-1015,Bone Saw,Orthopedic,232.48,35.0,05/12/2023
+SURG-1016,Scalpel Holder,Cutting,29.33,64.0,2023-01-17
+SURG-1017,Hemostatic Forceps,Grasping,39.95,48.0,2023-01-18
+SURG-1018,Retractor,Retracting,292.93,77.0,2023-01-19
+SURG-1019,Needle Driver,Suturing,117.99,72.0,2023-01-20
+SURG-1020,Metzenbaum Scissors,Cutting,59.34,44.0,2023-01-21
+SURG-1021,Adson Tissue Forceps,Grasping,224.68,88.0,2023-01-22
+SURG-1022,Speculum,Diagnostic,458.08,25.0,2023-01-23
+SURG-1023,Bone Saw,Orthopedic,136.49,92.0,2023-01-24
+SURG-1024,Scalpel Holder,Cutting,305.22,57.0,2023-01-25
+SURG-1025,Hemostatic Forceps,Grasping,77.05,26.0,2023-01-26
+SURG-1026,Retractor,Retracting,141.66,39.0,2023-01-27
+SURG-1027,Needle Driver,Suturing,444.94,55.0,2023-01-28
+SURG-1028,Metzenbaum Scissors,Cutting,427.88,22.0,2023-01-29
+SURG-1029,Adson Tissue Forceps,Grasping,58.28,87.0,2023-01-30
+SURG-1030,Speculum,Diagnostic,232.36,59.0,2023-01-31
+SURG-1031,Bone Saw,Orthopedic,58.8,28.0,2023-02-01
+SURG-1032,Scalpel Holder,Cutting,85.61,57.0,2023-02-02
+SURG-1033,Hemostatic Forceps,Grasping,380.4,99.0,2023-02-03
+SURG-1034,Retractor,Retracting,396.98,70.0,2023-02-04
+SURG-1035,Needle Driver,Suturing,65.74,93.0,2023-02-05
+SURG-1036,Metzenbaum Scissors,Cutting,127.13,47.0,2023-02-06
+SURG-1037,Adson Tissue Forceps,Grasping,482.19,83.0,2023-02-07
+SURG-1038,Speculum,Diagnostic,92.89,97.0,2023-02-08
+SURG-1039,Bone Saw,Orthopedic,203.34,61.0,2023-02-09
+SURG-1040,Scalpel Holder,Cutting,264.84,78.0,2023-02-10
+SURG-1041,Hemostatic Forceps,Grasping,166.23,39.0,2023-02-11
+SURG-1042,Retractor,Retracting,132.04,77.0,2023-02-12
+SURG-1043,Needle Driver,Suturing,148.36,73.0,2023-02-13
+SURG-1044,Metzenbaum Scissors,Cutting,275.97,39.0,2023-02-14
+SURG-1045,Adson Tissue Forceps,Grasping,92.31,43.0,2023-02-15
+SURG-1046,Speculum,Diagnostic,179.85,43.0,2023-02-16
+SURG-1047,Bone Saw,Orthopedic,282.55,54.0,2023-02-17
+SURG-1048,Scalpel Holder,Cutting,475.77,94.0,2023-02-18
+SURG-1049,Hemostatic Forceps,Grasping,485.14,80.0,2023-02-19
+SURG-1001,Hemostatic Forceps,Grasping,165.66,97.0,2023-01-02
