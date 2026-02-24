@@ -38,6 +38,12 @@ def sanitize_data(file_path):
 
 def interactive_sanitize(file_path):
     df = pd.read_csv(file_path)
+
+    # --- STEP 1: Normalization (Crucial!) ---
+    # We do this FIRST so duplicates and grouping are accurate
+    df['Category'] = df['Category'].str.strip().str.title()
+    df['Product_Name'] = df['Product_Name'].str.strip()
+
     df['Audit_Flag'] = ""  # Temporary column for auditing
 
     # 1. Identity issues and append reasons
