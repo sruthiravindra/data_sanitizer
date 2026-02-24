@@ -99,3 +99,20 @@ Contributions are what make the open-source community such an amazing place to l
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 > **Disclaimer**: This tool is for educational and administrative inventory management purposes only. It is not intended for clinical decision-making or real-time surgical scheduling.
+
+## Messy input data
+
+
+![img_1.jpg](img/img_1.jpg) 
+
+## Cleaned Data
+![img_3.jpg](img/img_2.jpg) 
+
+## Audit Log
+![img_3.jpg](img/img_3.jpg)
+
+## Inventory Summary
+![img_4.jpg](img/img_4.jpg)
+![img_5.jpg](img/img_5.jpg)
+![img_6.jpg](img/img_6.jpg)
+![img_7.jpg](img/img_7.jpg)
